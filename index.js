@@ -10,7 +10,7 @@ function createNotification() {
     notif.classList.add("toast");
     notif.innerText = "Share the Wave";
     container.appendChild(notif);
-    // setTimeout(() => {
-    //     notif.remove()
-    // },5000);
+    setTimeout(() => {
+        notif.remove()
+    },8000);
 }
