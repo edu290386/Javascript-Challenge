@@ -32,3 +32,9 @@ button {
     padding-left: 15px;
     padding-right: 15px;
 }
+
+#container2 {
+    background-color: #FFC300;
+    border-radius: 5px;
+    padding: 3px 15px;
+}
